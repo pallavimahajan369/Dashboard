@@ -1,0 +1,108 @@
+#cont{
+  
+   border-radius: 25px;
+}
+/* .row{
+    background-color: brown;
+} */
+.p-3:hover{
+    background-color: rgb(81, 0, 255);
+    
+    border-radius: 10px;
+    color: white;
+   }
+   .col-1{
+    
+    background-color: rgb(250, 253, 252);
+    width: auto;
+   }
+
+   #mt{
+    margin-top: 165px;
+   }
+   .col-3{
+    background-color:rgb(245, 243, 243);
+   }
+   #img{
+    
+    margin: 30px;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+   }
+   #font{
+   
+    font-size: xx-large;
+    font-weight: 500;
+     font-family:Times New Roman
+     Georgia
+     Garamond;
+   }
+   #f1{
+    font-family:Times New Roman
+     Georgia
+     Garamond;
+     font-weight: 1000;
+     margin-left: 50px;
+    font-size:large;
+    
+   }
+   
+   .dropdown{
+    background-color: rgb(81, 0, 255);
+    margin-left: 50px;
+    margin-right: 150px;
+    border-radius: 10px;
+    font-size: xx-small;
+
+   }
+   
+
+  
+   #f2{
+    font-family:Times New Roman
+     Georgia
+     Garamond;
+     font-weight: 1000;
+     
+    font-size:small;
+    color:  rgb(81, 0, 255);
+   }
+   #f3{
+    font-family:Times New Roman
+     Georgia
+     Garamond;
+     font-weight: 1000;
+     margin-left: 40px;
+    font-size:x-large;
+    
+   }
+   #hr{
+    position: relative;
+   
+    border: none;
+    height: 3px;
+    background: rgb(81, 0, 255);
+   }
+   #chart {
+    
+    margin-left: 30px;
+    
+    margin-top: 0px ;
+    
+  }
+ 
+  #range{
+        /* width: 150px; */
+        outline: none;
+        
+  }
+  .card{
+    background-color:rgb(245, 243, 243);
+    border: none;
+  }
+  .vl {
+    border-left: 3px solid rgb(81, 0, 255);
+    height: auto;
+   
+  }
